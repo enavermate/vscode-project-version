@@ -209,7 +209,7 @@
 	"devDependencies": {
 		"@types/vscode": "^1.71.0",
 		"@types/node": "16.x",
-		"esbuild": "^0.15.8"
+		"esbuild": "^0.25.0"
 	},
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"bugs": {
